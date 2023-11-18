@@ -13,6 +13,8 @@ function stringToArray(el) {
 
 
 
+
+
 function arraySumCount(arr, s) {
     var count = 0;
     var n = arr.length;
